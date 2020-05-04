@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  phone_number: 1
+  IFSC_code: MyString
+  balance: 1
+
+two:
+  phone_number: 1
+  IFSC_code: MyString
+  balance: 1
